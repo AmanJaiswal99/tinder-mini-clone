@@ -1,0 +1,30 @@
+.buttons{
+    position: fixed;
+    bottom: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.buttons .MuiIconButton-root{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3) !important;
+}
+
+.repeat{
+    color: rgb(233, 233, 105);
+    
+}
+
+.left{
+    color: red;
+}
+.star{
+    color: rgb(0, 152, 253);
+}
+.right{
+    color: rgb(255, 153, 170);
+}
+.lighting{
+    color: rgb(161, 22, 161);
+}
